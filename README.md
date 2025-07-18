@@ -1,7 +1,7 @@
 # Personal-Homelab-Environment-
 This is my personal homelab! It is currently a work-in-progress (WIP) as I will continually upgrade it. 
 
-#Utilities 
+# Utilities 
 - **Rackmate T1 (8U)** (Server Rack) 
 - **Dell Optiplex 3060** (Will run Proxmox VE, a free hypervisor installed from a bootable USB. Used to create virtual machines (VMs) and LXC containers for sandboxed environments like malware testing or OS/application experimentation. Managed via a browser-based web UI over your local network.)
 - **Dell Optiplex 3070** (Also running Proxmox VE. This node will host Docker contaienrs or VMs for services like a media server (Jellyfin), game servers (TBD), or self-hosted tools (e.g., Bookstack, Portainer). Network services and RDP access will be enabled for remote access from other devices on LAN.)
