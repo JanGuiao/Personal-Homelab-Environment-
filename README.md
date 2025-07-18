@@ -8,4 +8,4 @@ This is my personal homelab! It is currently a work-in-progress (WIP) as I will 
 - **KVM Switch** (Enables local control of both Optiplexes using one monitor, keyboard, and mouse. You'll physically connect the KVM to each Optiplex via HDMI/DisplayPort and USB, allowing you to toggle between machines during OS installations and maintenance.)
 - Managed PoE 8-Port Switch
 (Used as your primary network switch, connecting all devices via Cat6 Ethernet cables. It supports VLAN configuration, port isolation, and traffic monitoring via its web interface. Although PoE is not needed yet, it prepares myself for future PoE-capable devices like IP cameras or Raspberry Pi with PoE HATs.)
-- 
+
