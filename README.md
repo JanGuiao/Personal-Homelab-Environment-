@@ -9,4 +9,5 @@ This is my personal homelab! It is currently a work-in-progress (WIP) as I will 
 - Managed PoE 8-Port Switch
 (Used as your primary network switch, connecting all devices via Cat6 Ethernet cables. It supports VLAN configuration, port isolation, and traffic monitoring via its web interface. Although PoE is not needed yet, it prepares myself for future PoE-capable devices like IP cameras or Raspberry Pi with PoE HATs.)
 
-![image][IMG_9765](https://github.com/user-attachments/assets/9d9d35b0-088c-46b1-b04b-df4b2ac576e2)]) 
+![image](![IMG_9765](https://github.com/user-attachments/assets/f803c2bd-e5ee-4a95-9ed7-9b6637c85099)
+https://github.com/user-attachments/assets/9d9d35b0-088c-46b1-b04b-df4b2ac576e2)]) 
